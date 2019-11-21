@@ -1,0 +1,21 @@
+# Place user config files under version control, and ignore everything else
+*
+
+# Top-level config files
+!.bashrc
+!.gitconfig
+!.gitignore
+!.profile
+!.ripgreprc
+!.zshrc
+
+# Terminal application settings. You must un-ignore each directory level before un-ignoring files.
+!.config/
+!.config/fish/
+!.config/fish/*
+!.config/fish/functions/
+!.config/fish/functions/*
+!.config/htop/
+!.config/htop/*
+!.config/terminator/
+!.config/terminator/*

@@ -1,0 +1,23 @@
+[push]
+	default = simple
+[user]
+	email = ddevnich@ucmerced.edu
+	name = Gilgamesh
+[gui]
+	historybrowser = gitk
+	wmstate = normal
+	geometry = 1958x1186+366+251 148 157
+[cola]
+	spellcheck = false
+[github]
+	user = devnich
+[core]
+	autocrlf = input
+	# editor = gedit --wait --new-window
+[diff]
+	algorithm = histogram
+	tool = meld
+[credential]
+	helper = store
+[merge]
+	tool = meld
