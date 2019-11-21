@@ -1,7 +1,7 @@
 [push]
 	default = simple
 [user]
-	email = ddevnich@ucmerced.edu
+	email = devnich@gmail.com
 	name = Gilgamesh
 [gui]
 	historybrowser = gitk
