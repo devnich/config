@@ -3,6 +3,7 @@
 
 # Top-level config files
 !.bashrc
+!.condarc
 !.gitconfig
 !.gitignore
 !.profile
