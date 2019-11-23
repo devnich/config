@@ -34,7 +34,7 @@ export PATH="$HOME/.cargo/bin:$PATH"
 export RUST_SRC_PATH=/home/gilgamesh/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src
 
 # Ripgrep search flags
-export RIPGREP_CONFIG_PATH="$HOME/.ripgreprac"
+export RIPGREP_CONFIG_PATH="$HOME/.ripgreprc"
 
 # Allow use of Chrome devtools in Slack app
 export SLACK_DEVELOPER_MENU=true
