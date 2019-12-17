@@ -16,8 +16,8 @@
 	# editor = gedit --wait --new-window
 [diff]
 	algorithm = histogram
-	tool = meld
+	# tool = meld
 [credential]
 	helper = store
-[merge]
-	tool = meld
+# [merge]
+	# tool = meld
